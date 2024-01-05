@@ -50,4 +50,3 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ---
 
-¡Espero que esta versión más completa refleje mejor las características y el estado actual de tu proyecto! Puedes personalizar aún más el README según tus necesidades específicas.
