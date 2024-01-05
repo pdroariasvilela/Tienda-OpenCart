@@ -1,6 +1,6 @@
 # Tienda OpenCart
 
-![Tienda OpenCart Logo](./src//assets//img//opencartlogo.svg)
+![Capturas](./src/assets/Captura%20Github/captura.svg)
 
 ## Descripción del Proyecto
 
@@ -23,9 +23,9 @@ Tienda OpenCart es una plataforma web de comercio electrónico diseñada para of
   - Context API para la gestión de estados
   - ReactIcons 
 
-## Capturas de Pantalla
+## Logo utilizado 
 
-![Capturas](./src/assets/Captura%20Github/captura.svg)
+![Tienda OpenCart Logo](./src//assets//img//opencartlogo.svg)
 
 ## Instalación
 
