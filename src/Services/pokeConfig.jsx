@@ -1,0 +1,1 @@
+export const base_url = "https://poke-collection-api.herokuapp.com"
