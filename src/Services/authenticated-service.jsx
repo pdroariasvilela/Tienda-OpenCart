@@ -1,5 +1,5 @@
 
-export const base_url = "https://poke-collection-api.herokuapp.com"
+import { base_url } from "./pokeConfig"
 
 export const AuthenticatedUser = async (email , password)=>{
 

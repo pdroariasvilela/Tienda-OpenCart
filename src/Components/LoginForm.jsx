@@ -12,25 +12,8 @@ function LoginForm({toggleUserLogin}) {
 
     const { email , password} = formData
 
-    
-    // const [formData, setFormData] = useState({
-    //     email: '',
-    //     password: ''
-    // })
+    console.log("email:" , email)
 
-    // const { email, password } = formData
-
-    // function onChangeInfo(event) {
-
-    //     const { name, value } = event.target
-
-    //     setFormData({ ...formData, [name]: value })
-    // }
-
-    // function onSubmitInfo(event) {
-    //     event.preventDefault()
-    //     AuthenticatedUser(email, password).then((data) => console.log(data))
-    // }
 
     return (
         <>
