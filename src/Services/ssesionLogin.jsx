@@ -4,6 +4,7 @@ import { AuthenticatedUser } from "./authenticated-service";
 import { base_url } from "./pokeConfig";
 
 import { configUser } from "./configUser";
+
     
 const sessionLogin = ()=>{
 
